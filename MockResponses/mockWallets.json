@@ -1,0 +1,57 @@
+[
+  {
+    "account_id": "3230bd7e-cb4c-553c-bcd3-607f3a3f8e20",
+    "company_name": "Business Example LTD",
+    "amount": {
+      "amount": 198395.3700,
+      "currency": "USD",
+      "name": "US Dolars"
+    },
+    "credit_debit_indicator": "Credit",
+    "datetime": "2022-08-08T15:44:45.294"
+  },
+  {
+    "account_id": "5259846c-1d53-d9e0-1865-9d3815c42c16",
+    "company_name": "Business Example LTD",
+    "amount": {
+      "amount": 2608.1200,
+      "currency": "EUR",
+      "name": "Euros"
+    },
+    "credit_debit_indicator": "Credit",
+    "datetime": "2022-08-08T15:44:45.294"
+  },
+  {
+    "account_id": "b36fd6d0-634c-4c16-af1e-b01878cd164f",
+    "company_name": "Business Example LTD",
+    "amount": {
+      "amount": 341.5000,
+      "currency": "GBP",
+      "name": "British Pounds"
+    },
+    "credit_debit_indicator": "Credit",
+    "datetime": "2022-08-08T15:44:45.294"
+  },
+  {
+    "account_id": "4e5d9020-51b4-4a55-9e8d-0d43b0da327a",
+    "company_name": "Business Example LTD",
+    "amount": {
+      "amount": 11897729.4900,
+      "currency": "JPY",
+      "name": "Yens"
+    },
+    "credit_debit_indicator": "Credit",
+    "datetime": "2022-08-08T15:44:45.294"
+  },
+  {
+    "account_id": "4379b007-fb5f-4164-ab85-78d122d0edb0",
+    "company_name": "Business Example LTD",
+    "amount": {
+      "amount": 81810.57,
+      "currency": "AUD",
+      "name": "Australian Dolars"
+    },
+    "credit_debit_indicator": "Credit",
+    "datetime": "2022-08-08T15:44:45.294"
+  }
+]
